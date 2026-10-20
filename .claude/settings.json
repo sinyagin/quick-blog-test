@@ -1,0 +1,8 @@
+{
+  "enabledPlugins": {
+    "sdd-engineering@dev-digest-agentic-sdd-kit": true,
+    "engineering-paved-path@dev-digest-agentic-sdd-kit": true,
+    "research-tools@dev-digest-agentic-sdd-kit": true,
+    "architecture-review@dev-digest-agentic-sdd-kit": true
+  }
+}
